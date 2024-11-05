@@ -36,4 +36,3 @@ def is_symmetric(tree):
 if __name__ == "__main__":
     import doctest
     doctest.testmod()
-print("软工1班", 2315304321, "周潇潇")
